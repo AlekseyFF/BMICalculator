@@ -1,6 +1,6 @@
 # BMICalculator
 
-Calculator is developed by learning App brewery school (teacher - Angela Yu)
+Calculator was developed by learning App brewery school (teacher - Angela Yu)
 
 Multi-screen apps with animated navigation.
 
